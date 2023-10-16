@@ -3,11 +3,8 @@
 //.NET23 OOP
 
 
-using System.Drawing;
-
 namespace GrundernaOOP
 {
-
     internal class Program
     {
         //Variables for holding user input
